@@ -1,0 +1,13 @@
+h1 {
+	color:blue;
+	font-size:12px;
+	text-shadow: 2px 2px;
+}
+ul {
+	color:purple;
+	list-style-type:square;
+}
+ol {
+	color:pink;
+	list-style-type:lower-alpha;
+}
