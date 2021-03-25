@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cubscout leader training</title>
+	</head> 
+	<link rel="stylesheet" type=text/css" href="Basic_CSS_1.css">
+	<style>
+			p{color: blue;
+			text-align: center;
+			}
+	</style>
+	<div>
+		<body>
+			<h1></h1>
+				<p> 
+				</p>
+			<h2> Ideas for costumes</h2>
+			
+				<p> 
+				</p>
+	</div>
+			
+			<!-- GALLERY -->
+			<section>
+				<div id="Gallery">
+					<h3>Gallery</h3>
+					</div>
+					
+					<!-- PHOTO-CONTAINER 1 -->
+					<div>
+						<div>
+							<img src="" alt"">
+							<div>
+								<h4>Click to Enlarge</h4>
+								<p> </p>
+							</div>
+						</div>
+					</div>
+					<!-- END PHOTO-CONTAINER 1--
+					
+					
+		
+		</body>
+	</html>
