@@ -135,7 +135,7 @@ section {
         HOME SECTION STYLES
 ==================================*/
 #home {
-    background: url(../Images/planets.jpg) no-repear 50% 50%;
+    background: url(../Images/Thumb/planets.jpg) no-repeat 50% 50%;
     background-attachment: fixed;
     -webit-background-size: cover;
     -moz-background-size: cover;
@@ -187,7 +187,7 @@ section {
     padding: 10px;
     border-radius: 8px;
     margin: 0px auto;
-    background-color: rgba (100, 65, 0 .3);
+    background-color: rgba(100, 65, 0, .3);
     box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.5);
 }
 #contact {
@@ -199,7 +199,7 @@ section {
     padding: 10px;
     border-radius: 8px;
     margin: 0px auto;
-    background-color: rgba (100, 65, 0, .3);
+    background-color: rgba(100, 65, 0, .3);
     box-shadow: -1px -1px 1px 0 rgba(0, 0, 0, 0.1) 1px 2px 10px 0 rgba(0,0,0,0.5);
 }
 
@@ -226,10 +226,10 @@ section {
     word-spacing: .3pt;
 }
 
-.reservations p {
+.reservation p {
     color: #13161b;
     width: 50%;
-    MARGIN: 0 auto;
+    margin: 0 auto;
 }
 
 .reservation form {
@@ -242,7 +242,7 @@ section {
     border: 1 px solid #808080;
     margin: 2% auto;
     border-radius: 7px;
-    background: rgb (227,222,222);
+    background: rgba(227,222,222);
     box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.3);
     font-family: 'Raleway', san-serif;
 }
@@ -334,6 +334,7 @@ section {
 @media all and (max-width:381px) and  (main-widht:200px) {
     .head-main {
         font-size: 20 ;
+    }
 }
 @media all and (max-width: 768px) {
     .container {
